@@ -6,3 +6,4 @@ hamburgerBtn.addEventListener("click", function(e) {
     headerWrapper.classList.toggle("js-m-nav--toggled"),
     e.preventDefault()
 })
+console.log('test');
